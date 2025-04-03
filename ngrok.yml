@@ -1,5 +1,6 @@
 version: 2
-log_level: debug
+log_level: info
+log: stdout
 tunnels:
     n8n:
         proto: http
